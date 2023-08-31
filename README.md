@@ -1,18 +1,9 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# 📘Santander Bootcamp 2023 - Fullstack Java + Angular
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+This project is an integral part of the study track within the Santander Bootcamp 2023 - Fullstack Java + Angular. 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+The bootcamp offers a comprehensive curriculum designed to equip participants with the skills and knowledge required to excel in both Java backend development and Angular frontend development. 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This particular project serves as a practical application of the concepts of Java, more specifically flow control, programming logic and exception handling.
