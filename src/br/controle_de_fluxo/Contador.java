@@ -1,7 +1,7 @@
-package br.controledefluxo;
+package br.controle_de_fluxo;
 import java.util.Scanner;
 
-import br.controledefluxo.exceptions.ParametrosInvalidosException;
+import br.controle_de_fluxo.exceptions.ParametrosInvalidosException;
 
 
 public class Contador {
