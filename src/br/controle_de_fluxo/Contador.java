@@ -2,6 +2,9 @@ package br.controle_de_fluxo;
 import java.util.Scanner;
 
 import br.controle_de_fluxo.exceptions.ParametrosInvalidosException;
+import br.controle_de_fluxo.exceptions.Testador;
+import br.controle_de_fluxo.exceptions.TestadorTeste;
+import br.controle_de_fluxo.exceptions.Teste;
 
 
 public class Contador {
@@ -21,6 +24,12 @@ public class Contador {
             System.out.println("O segundo parâmetro deve ser maior que o primeiro");
         } 
 
+
+            Teste testador = new Testador();
+            Teste testadorTeste = new TestadorTeste();
+
+            testador.teste();
+            testadorTeste.teste();
     }
 
     public static void contar(int num1, int num2) throws ParametrosInvalidosException{
